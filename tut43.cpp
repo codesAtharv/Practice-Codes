@@ -1,0 +1,8 @@
+/*Constructure in inheritance or in derived class
+ we can use constreure in derived class
+ If base class have constructure which dont have any argument there is no need to of any constructure in derived class
+ But if there are more argument in base class constructure derived class need to pass argument  to base class constructure
+ if both base and derived class have constructure than base class construre exicuted first
+ 
+ The constructure of virtual base class is invoked before nonvirtual base class
+ If ther are multiple virtual base class then they will invoke in order they are declared*/
